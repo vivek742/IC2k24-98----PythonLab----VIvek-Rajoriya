@@ -1,4 +1,5 @@
- Lab 1 Programs
+15 aug 2026
+Lab 1 Programs
 
 The first laboratory session covers basic Python programming concepts:
 
